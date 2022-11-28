@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martsr
 - 👀 I’m interested in yoga, reading ( soecially self growth and crimes books. I know weird combination right?) and also excercising ( slowly becoming a gym rat)
-- 🌱 I’m currently learning React JS ! I have previouslt taught myself python and JS. 
+- 🌱 I’m currently learning React! I have previouslt taught myself python and JS. 
 - 💞️ I’m looking to collaborate on any project you think I am a good addition
 - 📫 How to reach me? That is a good question, maybe I will let you figure that out ...
 
